@@ -1,1 +1,3 @@
+RUTAS-URBANAS: Aplicación de taxis. Técnicas y herramientas: análisis de requisitos, listas de verificación, diseño de pruebas, clases de equivalencia y valores límite, pruebas de humo, pruebas de regresión, ejecución de casos de prueba, informes de errores en JIRA.
+
 https://docs.google.com/spreadsheets/d/1epyfPxfL_lnWf6isN3V5kE7mGLJG6W6i/edit#gid=1825856691
