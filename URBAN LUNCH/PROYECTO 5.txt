@@ -1,1 +1,3 @@
+URBAN LUNCH: aplicacion de pedidos de comida. Técnicas utilizadas: análisis de requisitos, listas de verificación, diseño de pruebas, clases de equivalencia y valores límite, pruebas de regresión, ejecución de casos de prueba, pruebas móviles en ANDROID STUDIO, informes de errores en JIRA.
+
 https://docs.google.com/spreadsheets/d/11RyEBsTtSVIttieXnBnAocwkhwvWWPO7/edit?usp=sharing&ouid=116199355036576898277&rtpof=true&sd=true
